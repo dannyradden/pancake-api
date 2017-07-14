@@ -1,5 +1,7 @@
 # README
 
-This is an internal API for Pancake Panel, the new best Kanban app on planet earth.
+:pancakes: This is an internal API for Pancake Panel, the best new Kanban app on planet earth. :pancakes:
 
-WORK IN PROGRESS
+Frontend here: https://github.com/hcjk/pancake-frontend
+
+:construction: WORK IN PROGRESS :construction:
